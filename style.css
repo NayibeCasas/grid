@@ -22,7 +22,7 @@ body{
     justify-content: center;
 }
 .contenedor{
-    width: 90%;
+    width: 60%;
     height: 90%;
     display: grid;
     font-size: 1rem;
